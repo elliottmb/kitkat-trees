@@ -277,29 +277,29 @@ theme:
   
   # Header
   #
-  #- header.autohide # Hide header when user scrolls past a specific point.
+  - header.autohide # Hide header when user scrolls past a specific point.
   
   # Navigation:
   #
   #- navigation.expand      # Expand all collapsable sections.
-  #- navigation.instant     # Instant loading pages.
+  - navigation.instant     # Instant loading pages.
   #- navigation.indexes     # Attach pages directly to Sections. Incompatible with "toc.integrate"
   #- navigation.sections    # Render top sections as groups.
   - navigation.tabs         # Render top sections as tabs at the top.
-  #- navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
+  - navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
   #- navigation.top         # Adds a "Back to top" that is shown when scrolling up.
-  #- navigation.tracking    # Updates the url with highlighted section anchor.
+  - navigation.tracking    # Updates the url with highlighted section anchor.
   
   # Search
   #
   #- search.highlight # Search will highlight the searched word(s) on the page.*
   #- search.share     # Adds an option to share a search query link.*
-  #- search.suggest   # Search will suggest the likeliest completion for a word.*
+  - search.suggest   # Search will suggest the likeliest completion for a word.*
   
   # Table of Contents
   #
   #- toc.integrate          # Include the TOC sections in the left navugation.
-  
+ 
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
   # | The "icon" section allows you to define a icon to use for the logo and/or repository.                |
@@ -326,7 +326,7 @@ theme:
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
   icon:
-    logo: 'material/library'
+    logo: 'material/forest'
     repo: 'material/library'
   
   # +------------------------------------------------------------------------------------------------------+
