@@ -476,6 +476,8 @@ extra:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - markdown.extensions.admonition:
   - markdown.extensions.codehilite:
       guess_lang: false
@@ -505,6 +507,7 @@ markdown_extensions:
   #- pymdownx.tabbed:
   #- pymdownx.tasklist:
   #- pymdownx.tilde:
+
 
 watch:
  - docs
