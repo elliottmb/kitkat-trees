@@ -29,7 +29,7 @@
 # +--------------------------------------------------------------------------------------------------------+
 site_name: Trees Today
 site_description: 'The best time to plant a tree was twenty years ago, the second best time is today'
-site_author: 'Caitrin'
+site_author: 'Caitrin B'
 #site_url: 'https://www.andre601.ch/mkdocs-template' # Uncomment to set a canonical URL
 
 
@@ -49,7 +49,7 @@ plugins:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 copyright: |
-  &copy; Caitrin 
+  &copy; Caitrin B
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -421,7 +421,7 @@ extra:
   # +------------------------------------------------------------------------------------------------------+
   social:
     - icon: 'fontawesome/brands/github'
-      link: 'https://github.com/Andre601/mkdocs-template'
+      link: 'https://github.com/elliottmb/kitkat-trees'
   
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
