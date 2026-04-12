@@ -10,6 +10,11 @@ Why should people care about trees? What is the big deal about them anyway? Well
 you should care and why they are important for climate change and other natural resources that we need to survive and
 thrive.
 
+<figure markdown="span">
+  ![Altja river in Lahemaa National Park, Estonia. Credit Margus Opp](assets/Altja_j\303\265gi_Lahemaal.jpg){ width="300" align=right }
+  <figcaption>[Altja river in Lahemaa National Park, Estonia. Credit Margus Opp.](https://commons.wikimedia.org/wiki/File:Altja_j%C3%B5gi_Lahemaal.jpg)</figcaption>
+</figure>
+
 First, I want to talk about how trees can help us by giving us more time before climate change ruins us all. Trees can
 hold lots of CO2 and carbon. Also, trees filter particulate matter, nitrogen oxides, and sulfur dioxide from the air.
 
