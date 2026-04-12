@@ -5,7 +5,14 @@ hide:
 
 # Activities
 
+<figure markdown="span">
+  ![Coloring page](assets/image1.png){ width="300" }
+  <figcaption>Image caption</figcaption>
+</figure>
 
-![Coloring page](assets/image2.png)
+<figure markdown="span">
+  ![Workbook page](assets/image2.png){ width="300" }  
+  <figcaption>Image caption</figcaption>
+</figure>
 
-![Workbook page](assets/image1.png)
+
