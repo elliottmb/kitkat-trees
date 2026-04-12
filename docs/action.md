@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+glightbox.auto_caption: true
 ---
 
 # Call to Action
@@ -10,8 +11,8 @@ Why should people care about trees? What is the big deal about them anyway? Well
 you should care and why they are important for climate change and other natural resources that we need to survive and
 thrive.
 
-<figure class="inline end" markdown="span">
-  ![Altja river in Lahemaa National Park, Estonia. Credit Margus Opp](assets/Altja.jpg){ width="400" }
+<figure class="inline end" style="width: 400px" markdown="span">
+  ![Altja river in Lahemaa National Park, Estonia. Credit Margus Opp](assets/Altja.jpg)
   <figcaption><a href="https://commons.wikimedia.org/wiki/File:Altja_j%C3%B5gi_Lahemaal.jpg">Altja river in Lahemaa National Park, Estonia. Credit Margus Opp.</a></figcaption>
 </figure>
 
