@@ -11,7 +11,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Trees Forever__
+-   :material-pine-tree:{ .lg .middle } __Trees Forever__
 
     ---
 
@@ -19,7 +19,7 @@ hide:
 
     [:octicons-arrow-right-24: Support Trees Forever](https://treesforever.org)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __United Way - Des Moines__
+-   :material-charity:{ .lg .middle } __United Way - Des Moines__
 
     ---
 
@@ -27,7 +27,7 @@ hide:
 
     [:octicons-arrow-right-24: Volunteer with United Way](https://volunteer.unitedwaydm.org/)
 
--   :material-format-font:{ .lg .middle } __Iowa DNR__
+-   :material-nature-people:{ .lg .middle } __Iowa DNR__
 
     ---
 
