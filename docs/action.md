@@ -41,6 +41,13 @@ The fourth reason is that when it rains, trees help make one of the safest water
 in a forested area with not much water, guess what? You probably do not get floods often. Another way they stop floods
 is a little bit slower, but it still works. They soak up a lot of the water.
 
+<!-- prettier-ignore-start -->
+<figure class="inline end" style="width: 400px" markdown="span">
+  ![Waves. Credit Neverfail.](assets/waves.webp)
+  <figcaption>Waves. Credit <a href="https://www.neverfail.com.au/awesome-water-facts">Neverfail.</a></figcaption>
+</figure>
+<!-- prettier-ignore-end -->
+
 The fifth reason you should plant trees and protect them is that trees also provide shade and cool our cities by up to
 10 degrees, which can help prevent heat-related deaths in urban areas. Even if you live in a slightly cooler area, it
 still helps just in case.
