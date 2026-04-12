@@ -12,7 +12,7 @@ thrive.
 
 <figure markdown="span">
   ![Altja river in Lahemaa National Park, Estonia. Credit Margus Opp](assets/Altja.jpg){ width="300" align=right }
-  <figcaption>[Altja river in Lahemaa National Park, Estonia. Credit Margus Opp.](https://commons.wikimedia.org/wiki/File:Altja_j%C3%B5gi_Lahemaal.jpg)</figcaption>
+  <figcaption><a href="https://commons.wikimedia.org/wiki/File:Altja_j%C3%B5gi_Lahemaal.jpg">Altja river in Lahemaa National Park, Estonia. Credit Margus Opp.</a></figcaption>
 </figure>
 
 First, I want to talk about how trees can help us by giving us more time before climate change ruins us all. Trees can
