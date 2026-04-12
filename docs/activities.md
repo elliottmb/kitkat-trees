@@ -14,5 +14,3 @@ hide:
   ![Workbook page](assets/image2.png){ width="300" }  
   <figcaption>Image caption</figcaption>
 </figure>
-
-
