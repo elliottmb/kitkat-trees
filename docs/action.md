@@ -12,7 +12,7 @@ you should care and why they are important for climate change and other natural 
 thrive.
 
 <figure class="inline end" style="width: 400px" markdown="span">
-  ![Altja river in Lahemaa National Park, Estonia. Credit Margus Opp](assets/Altja.jpg)
+  ![Altja river](assets/Altja.jpg)
   <figcaption>Altja river. Credit <a href="https://commons.wikimedia.org/wiki/File:Altja_j%C3%B5gi_Lahemaal.jpg">Margus Opp.</a></figcaption>
 </figure>
 
@@ -24,9 +24,15 @@ some of the tiniest plants and insects live on trees, and you might not even not
 and other bigger animals that you see every day that live in or on a tree. Just think: acorns come from trees, but
 squirrels eat acorns, so if there were no trees, no acorns, then no squirrels.
 
+<figure class="inline start" style="width: 400px" markdown="span">
+  ![Picture of medicine](assets/medicine.jpg)
+  <figcaption>Medicine. Credit <a href="https://medshadow.org/drug-updates-recalls/drug-safety/what-are-long-term-effects-of-medicine/">Med Shadow Foundation.</a></figcaption>
+</figure>
+
 Third, trees are key ingredients in 25% of all medicines. Have you ever taken aspirin? It comes from the bark of a tree!
 Trees are even being used to help cure and treat cancer. The sap of a tree can be used as a strong antiseptic or healing
 aid. Basically, I am saying that trees are like the world's best doctor, keeping us healthy.
+
 
 The fourth reason is that when it rains, trees help make one of the safest watersheds that you will ever see. If you are
 in a forested area with not much water, guess what? You probably do not get floods often. Another way they stop floods
