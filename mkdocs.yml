@@ -32,6 +32,10 @@ site_description: 'The best time to plant a tree was twenty years ago, the secon
 site_author: 'Caitrin'
 #site_url: 'https://www.andre601.ch/mkdocs-template' # Uncomment to set a canonical URL
 
+
+plugins:
+ - glightbox
+ - search
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
 # | This setting allows you to define your own Copyright notice.                                           |
