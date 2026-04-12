@@ -10,7 +10,7 @@ glightbox.auto_caption: true
 <!-- prettier-ignore-start -->
 <figure class="inline end" style="width: 400px" markdown="span">
   ![Altja river. Credit Margus Opp.](assets/Altja.jpg)
-  <figcaption>Altja river. Credit <a href="https://commons.wikimedia.org/wiki/File:Altja_j%C3%B5gi_Lahemaal.jpg">Margus Opp.</a></figcaption>
+  <figcaption style="margin: auto;">Altja river. Credit <a href="https://commons.wikimedia.org/wiki/File:Altja_j%C3%B5gi_Lahemaal.jpg">Margus Opp.</a></figcaption>
 </figure>
 <!-- prettier-ignore-end -->
 
@@ -29,7 +29,7 @@ squirrels eat acorns, so if there were no trees, no acorns, then no squirrels.
 <!-- prettier-ignore-start -->
 <figure class="inline start" style="width: 400px" markdown="span">
   ![Medicine. Credit Med Shadow Foundation.](assets/medicine.jpg)
-  <figcaption>Medicine. Credit <a href="https://medshadow.org/drug-updates-recalls/drug-safety/what-are-long-term-effects-of-medicine/">Med Shadow Foundation.</a></figcaption>
+  <figcaption style="margin: auto;">Medicine. Credit <a href="https://medshadow.org/drug-updates-recalls/drug-safety/what-are-long-term-effects-of-medicine/">Med Shadow Foundation.</a></figcaption>
 </figure>
 <!-- prettier-ignore-end -->
 
@@ -44,7 +44,7 @@ is a little bit slower, but it still works. They soak up a lot of the water.
 <!-- prettier-ignore-start -->
 <figure class="inline end" style="width: 400px" markdown="span">
   ![Waves. Credit Neverfail.](assets/waves.webp)
-  <figcaption>Waves. Credit <a href="https://www.neverfail.com.au/awesome-water-facts">Neverfail.</a></figcaption>
+  <figcaption style="margin: auto;">Waves. Credit <a href="https://www.neverfail.com.au/awesome-water-facts">Neverfail.</a></figcaption>
 </figure>
 <!-- prettier-ignore-end -->
 
