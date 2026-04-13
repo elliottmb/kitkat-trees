@@ -34,8 +34,10 @@ site_author: 'Caitrin B'
 
 
 plugins:
- - glightbox
- - search
+  - glightbox
+  - search
+  - offline:
+      enabled: !ENV [OFFLINE, false]
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
 # | This setting allows you to define your own Copyright notice.                                           |
