@@ -59,4 +59,4 @@ which can hurt food production.
 
 That is why I think it is important to plant trees and take care of them. Also, next time you think about a tree, just
 remember that it is one of the things that helps keep Earth and you alive. **Please visit the
-[Resources page](/resources.md) for ways you can help!** :smiley_cat:
+[Resources page](resources.md) for ways you can help!** :smiley_cat:
